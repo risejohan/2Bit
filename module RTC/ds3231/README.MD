@@ -75,10 +75,9 @@ For all available versions, look at the [tags in this repository](https://github
 
 ## Authors ✒️
 * **Johan Riascos** - *Electronic developer* - 
-* 
-* [Johan-rise](https://github.com/risejohan)
-* 
-* [Instagram](https://instagram.com/johansegura92?utm_medium=copy_link)
+* [Github](https://github.com/risejohan)
+* [Instagram Personal](https://instagram.com/johansegura92?utm_medium=copy_link)
+* [Instagram 2bit](https://instagram.com/2bit_electronic?utm_medium=copy_link)
 
 
 You can also look at the list of all the [contributors] (https://github.com/risejohan/2bit/contributors) who have participated in this project.
