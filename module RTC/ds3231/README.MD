@@ -1,6 +1,8 @@
 # RTC Module 
 
 Real Time Clock
+![alt text](https://github.com/risejohan/2Bit/blob/main/module%20RTC/ds3231/Top.png "RTC")
+
 ![alt text](https://github.com/risejohan/2Bit/blob/main/module%20RTC/ds3231/Board.png "RTC")
 
 ## Start 🚀
