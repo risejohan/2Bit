@@ -74,7 +74,11 @@ _DS3231_
 For all available versions, look at the [tags in this repository](https://github.com/risejohan/2Bit/tree/main/module%20RTC/ds3231).
 
 ## Authors ✒️
-* **Johan Riascos** - *Electronic developer* - [Johan-rise](https://github.com/risejohan) [Instagram](https://instagram.com/johansegura92?utm_medium=copy_link)
+* **Johan Riascos** - *Electronic developer* - 
+* 
+* [Johan-rise](https://github.com/risejohan)
+* 
+* [Instagram](https://instagram.com/johansegura92?utm_medium=copy_link)
 
 
 You can also look at the list of all the [contributors] (https://github.com/risejohan/2bit/contributors) who have participated in this project.
