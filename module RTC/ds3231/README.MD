@@ -37,14 +37,19 @@ The battery can keep the RTC working for 10 years.
 It can be used in cascade with another I2C device, the AT24C32 address can be modified (by default it is 0x57)
 
 Connection for Arduino Uno:
-SCL - A5
-SDA - A4
-VCC - 5V
-GND - GND
 
+Pin | Name
+--- | --- |
+*SCL* |A5 |
+*SDA* |A4 |
+*VCC* |5V |
+*GND* |GND|
 
 LINKS
-
+[Datasheet DS3231 Maxim](http://datasheets.maximintegrated.com/en/ds/DS3231.pdf)
+[Datasheet AT24C32](http://www.atmel.com/images/doc0336.pdf)
+[Library Arduino RTC](http://playground.arduino.cc/Code/time)
+[Article Neoteo about RTC](http://www.neoteo.com/ds1307-reloj-en-tiempo-real-con-18f2550/)
 
 ## Built with 🛠️
 
@@ -62,7 +67,7 @@ _DS3231_
 We use [SemVer] (http://semver.org/) for versioning. For all available versions, look at the [tags in this repository](https://github.com/risejohan/2Bit/tree/main/module%20RTC/ds3231).
 
 ## Authors ✒️
-* **Johan Riascos** - *Electronic developer* - [Johan-rise](https://github.com/risejohan) [Johan-rise](https://instagram.com/johansegura92?utm_medium=copy_link)
+* **Johan Riascos** - *Electronic developer* - [Johan-rise](https://github.com/risejohan) [Instagram](https://instagram.com/johansegura92?utm_medium=copy_link)
 
 
 You can also look at the list of all the [contributors] (https://github.com/risejohan/2bit/contributors) who have participated in this project.
