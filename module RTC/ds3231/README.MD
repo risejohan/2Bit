@@ -1,6 +1,7 @@
 # RTC Module 
 
 Real Time Clock
+![alt text](https://github.com/risejohan/2Bit/blob/main/module%20RTC/ds3231/Board.png "RTC")
 
 ## Start 🚀
 
@@ -47,8 +48,11 @@ Pin | Name
 
 LINKS
 [Datasheet DS3231 Maxim](http://datasheets.maximintegrated.com/en/ds/DS3231.pdf)
+
 [Datasheet AT24C32](http://www.atmel.com/images/doc0336.pdf)
+
 [Library Arduino RTC](http://playground.arduino.cc/Code/time)
+
 [Article Neoteo about RTC](http://www.neoteo.com/ds1307-reloj-en-tiempo-real-con-18f2550/)
 
 ## Built with 🛠️
