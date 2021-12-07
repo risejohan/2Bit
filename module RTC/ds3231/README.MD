@@ -48,6 +48,7 @@ Pin | Name
 *GND* |GND|
 
 LINKS
+
 [Datasheet DS3231 Maxim](http://datasheets.maximintegrated.com/en/ds/DS3231.pdf)
 
 [Datasheet AT24C32](http://www.atmel.com/images/doc0336.pdf)
