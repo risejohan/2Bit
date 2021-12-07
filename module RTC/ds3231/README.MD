@@ -66,11 +66,12 @@ Development sofware:
 
 ### Components
 _MAXIM and the EEPROM AT24C32 from ATMEL_
+
 _DS3231_
 
 ## Version 📌
 
-We use [SemVer] (http://semver.org/) for versioning. For all available versions, look at the [tags in this repository](https://github.com/risejohan/2Bit/tree/main/module%20RTC/ds3231).
+For all available versions, look at the [tags in this repository](https://github.com/risejohan/2Bit/tree/main/module%20RTC/ds3231).
 
 ## Authors ✒️
 * **Johan Riascos** - *Electronic developer* - [Johan-rise](https://github.com/risejohan) [Instagram](https://instagram.com/johansegura92?utm_medium=copy_link)
