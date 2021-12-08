@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/risejohan/2Bit/blob/main/8%20channel%20relay/Board.png "Board")
 
-![alt text](https://github.com/risejohan/2Bit/blob/main/8%20channel%20relay/Front.png"Front")
+![alt text](https://github.com/risejohan/2Bit/blob/main/8%20channel%20relay/Front.png "Front")
 
 ## Start 🚀
 
