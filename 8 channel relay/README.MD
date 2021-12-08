@@ -1,4 +1,4 @@
-# 8 channel Relay
+# 8 Channel Relay
 
 ![alt text](https://github.com/risejohan/2Bit/blob/main/8%20channel%20relay/Board.png "Board")
 
@@ -47,6 +47,7 @@ be connected in parallel for higher current capability
 
 - [Relay](https://pdf1.alldatasheet.es/datasheet-pdf/view/1132639/SONGLERELAY/SRD-05VDC-SL-C.html)
 
+- [Photocoupler](https://global.sharp/products/device/lineup/data/pdf/datasheet/PC817XxNSZ1B_e.pdf)
 
 
 ## Built with 🛠️
@@ -60,6 +61,7 @@ Development sofware:
 - LM2596
 - ULN2803A
 - RELAY
+- PHOTOCOUPLER
 
 ## Version 📌
 
