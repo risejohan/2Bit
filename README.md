@@ -1,5 +1,5 @@
 # 2 Bit Electronic 
-[![2 Bit](Logo "2 Bit")](https://github.com/risejohan/2Bit/blob/main/2%20BIT.png "2 Bit")
+![alt text](https://github.com/risejohan/2Bit/blob/main/2%20BIT.png "2Bit")
 
 ##### Welcome to our space 🌍
 We are electronic engineers focused on carrying out electronic developments, where they can be applied in favor of technology, the designs, modules and schemes can be used freely to be incorporated in their automation developments applied to the Internet of Things where it is based on interconnection digital of any product or object with any other around using the internet.
