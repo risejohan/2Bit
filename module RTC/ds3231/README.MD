@@ -83,7 +83,10 @@ For all available versions, look at the [tags in this repository](https://github
 You can also look at the list of all the [contributors] (https://github.com/risejohan/2bit/contributors) who have participated in this project.
 
 
-## Expressions of gratitude 🎁
-Implementation of electronic modules 📢
+###  Expressions of gratitude 🎁
 ---
-⌨️ con ❤️ por [Johan Riascos @johan-rise) 😊
+For the entire community that wishes to add and shows appreciation for sharing knowledge. Welcome to everyone who wishes to contribute in favor of technology.
+
+#### Contributions
+If you want to invite us to a coffee ☕ and contribute to continue uploading  content ⬆ . You can do it here 👇🏻
+⌨️ con ❤️❤️❤️ [Donation](https://paypal.me/2bitelectronic "Donation") 😊
