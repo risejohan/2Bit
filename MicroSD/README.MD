@@ -1,8 +1,8 @@
 # SD Module
 
-![alt text](https://github.com/risejohan/2Bit/blob/main/Modulo%20LM2596/board.png "Board")
+![alt text](https://github.com/risejohan/2Bit/blob/main/MicroSD/Board.png "Board")
 
-![alt text](https://github.com/risejohan/2Bit/blob/main/Modulo%20LM2596/bot.png "Front")
+![alt text](https://github.com/risejohan/2Bit/blob/main/MicroSD/Top.png "Front")
 
 ## Start 🚀
 
