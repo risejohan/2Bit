@@ -1,8 +1,8 @@
 # SD Module
 
-![alt text](https://github.com/risejohan/2Bit/blob/main/Modulo%20LM2596/board.png "Board")
+![alt text](https://github.com/risejohan/2Bit/blob/main/MicroSD/Board.png "Board")
 
-![alt text](https://github.com/risejohan/2Bit/blob/main/Modulo%20LM2596/bot.png "Front")
+![alt text](https://github.com/risejohan/2Bit/blob/main/MicroSD/Top.png "Front")
 
 ## Start 🚀
 
@@ -21,7 +21,7 @@ _In both types of readers, the reading can be done through the SPI bus. Although
 ### Conditions and Characteristic🔩
 
 ##### Connection SPI
-[![SPI](SPI "SPI")](https://www.analog.com/-/media/images/analog-dialogue/en/volume-52/number-3/articles/introduction-to-spi-interface/205973_fig_01.png?la=en&imgver=2 "SPI")
+![alt text](https://www.analog.com/-/media/images/analog-dialogue/en/volume-52/number-3/articles/introduction-to-spi-interface/205973_fig_01.png?la=en&imgver=2 "SPI")
 
 4-wire SPI devices have four signals:
 - Clock (SPI CLK, SCLK)
