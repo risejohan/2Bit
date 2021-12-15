@@ -14,7 +14,7 @@ _Be able to use the designs of the common modules to have available and apply to
 ### Pre requirements 📋
 
 _PCM5102 I2S DAC MODULE FOR AUDIO PLAYER DECODER
-The DAC module provides a very affordable high quality I2S for Arduino or any microcontroller.
+The DAC module provides a very affordable high quality I2C for Arduino or any microcontroller.
 Since it's digital audio, it sounds great, much better than onboard analog audio. The stereo connector is already soldered to the board._
 
 
