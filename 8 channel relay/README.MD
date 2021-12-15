@@ -4,6 +4,8 @@
 
 ![alt text](https://github.com/risejohan/2Bit/blob/main/8%20channel%20relay/Front.png "Front")
 
+![alt text](https://github.com/risejohan/2Bit/blob/main/8%20channel%20relay/schematic_all.png "schematic")
+
 ## Start 🚀
 
 _Be able to use the designs of the common modules to have available and apply to electronic designs._
