@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Adafruit PCB Reference Ruler")(type KiCad)(uri "$(KIPRJMOD)/Adafruit PCB Reference Ruler.pretty")(options "")(descr ""))
+)

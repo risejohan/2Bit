@@ -1,0 +1,16 @@
+(module CRYSTAL-SMD-3.2X2.5 (layer F.Cu) (tedit 0)
+  (fp_text reference E$37 (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_text value "" (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (pad 4 smd rect (at -1.2 -0.95) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask)
+    (solder_mask_margin 0.1016))
+  (pad 3 smd rect (at 1.2 -0.95) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask)
+    (solder_mask_margin 0.1016))
+  (pad 1 smd rect (at -1.2 0.95) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask)
+    (solder_mask_margin 0.1016))
+  (pad 2 smd rect (at 1.2 0.95) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask)
+    (solder_mask_margin 0.1016))
+)
