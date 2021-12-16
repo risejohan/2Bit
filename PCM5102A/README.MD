@@ -14,25 +14,25 @@ _Be able to use the designs of the common modules to have available and apply to
 ### Pre requirements 📋
 
 _PCM5102 I2S DAC MODULE FOR AUDIO PLAYER DECODER
-The DAC module provides a very affordable high quality I2S for Arduino or any microcontroller.
+The DAC module provides a very affordable high quality I2C for Arduino or any microcontroller.
 Since it's digital audio, it sounds great, much better than onboard analog audio. The stereo connector is already soldered to the board._
 
 
 
 ### Conditions and Characteristic🔩
-STEREO jack line
-PHAT Board format
-Uses the PCM5102A DAC
-Module supply voltage: DC3.3V
-SNR signal to noise ratio: 112dB
-Dynamic range: 112dB
-Full scale single output: 2.1 VRMS
-Sampling frequency: 8KHz ~ 384KHz
-Main Clock Frequency: 50MHz
-Number of audio data: 16, 24, 32
-Working environment temperature: -40 ° C ~ 85 ° C
-Audio data format: IIS, left-aligned
-Total Harmonic Distortion (THD + N at -1dBFS): -93dB
+- STEREO jack line
+- PHAT Board format
+- Uses the PCM5102A DAC
+- Module supply voltage: DC3.3V
+- SNR signal to noise ratio: 112dB
+- Dynamic range: 112dB
+- Full scale single output: 2.1 VRMS
+- Sampling frequency: 8KHz ~ 384KHz
+- Main Clock Frequency: 50MHz
+- Number of audio data: 16, 24, 32
+- Working environment temperature: -40 ° C ~ 85 ° C
+- Audio data format: IIS, left-aligned
+- Total Harmonic Distortion (THD + N at -1dBFS): -93dB
 
 LINKS
 
