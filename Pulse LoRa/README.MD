@@ -50,7 +50,7 @@ _Module designed as a network node for IoT applications. It allows sending data 
 - Clock speed: 48MHz
 - Core processor: ARM® Cortex®-M0 +
 
-####LoRa Features
+#### LoRa Features
 
 - 168 dB maximum link.
 - Constant +20 dBm - 100 mW RF output vs. +14 dBm high-efficiency PA.
