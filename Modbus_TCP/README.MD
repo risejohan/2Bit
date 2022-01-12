@@ -1,6 +1,6 @@
 # Module Ethernet - Wifi - Modbus
 
-![alt text](https://github.com/risejohan/2Bit/blob/main/Modbus_TCP/Images/BOTTOM.png "Board")
+![alt text](https://github.com/risejohan/2Bit/blob/main/Modbus_TCP/Images/BOARD.png "Board")
 
 ![alt text](https://github.com/risejohan/2Bit/blob/main/Modbus_TCP/Images/TOP.png "Front")
 
